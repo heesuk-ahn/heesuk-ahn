@@ -4,7 +4,7 @@
 
 ![스크린샷 2021-10-26 오전 12 07 22](https://user-images.githubusercontent.com/42938941/140769125-288b2bdf-a2e4-4c0d-ad5e-d018b2264c80.png)
 
-- 🔭 I’m currently working on **11 street in korea**
+- 🔭 I am working as a backend developer at 11street, an e-commerce service in Korea.**
 
 - 🌱 I’m currently learning **java, spring framework, spring cloud, kubernetes, container, cloud native..**
 
